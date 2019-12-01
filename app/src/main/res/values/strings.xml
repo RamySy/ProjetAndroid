@@ -15,5 +15,11 @@
     <string name="menu_share">Share To Friends</string>
     <string name="menu_lang">Change Language</string>
     <string name="menu_login">Login</string>
+    <string name="login_btn">Login</string>
+    <string name="signup_btn">Sign Up</string>
+    <string name="password_hint">Enter Password</string>
+    <string name="email_hint">Enter email</string>
+    <string name="new_password">New Password</string>
+    <string name="back">Back</string>
 
 </resources>
